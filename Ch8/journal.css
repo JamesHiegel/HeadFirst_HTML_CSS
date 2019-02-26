@@ -5,7 +5,12 @@
 }
 body {
     font-family: Verdana, Geneva, Ariel, sans-serif;
+    font-size: small;
 }
 h1 {
     font-family: "Emblema One", sans-serif;
+    font-size: 220%;
+}
+h2 {
+    font-size: 130%;
 }
