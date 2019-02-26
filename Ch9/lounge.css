@@ -22,9 +22,16 @@ h2 {
     border-style: solid;
     background-color: #a7cece;
     padding: 25px;
+    padding-left: 80px;
     margin: 30px;
+    margin-right: 250px;
     line-height: 1.9em;
     font-style: italic;
     color: #444444;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top-left;
+    border-style: dashed;
+    border-color: white;
 }
