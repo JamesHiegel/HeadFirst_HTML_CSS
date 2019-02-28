@@ -50,4 +50,14 @@ h2 {
 
     background-image: url(images/cocktail.gif);
     background-repeat: repeat-x;
+
+    line-height: 1;
+}
+
+#elixirs h2 {
+    color: black;
+}
+
+#elixirs h3 {
+    color: #d12c47;
 }
