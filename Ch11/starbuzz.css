@@ -11,6 +11,16 @@ body {
   height:           108px;
 }
 
+#headerSlogan {
+    float: right;
+}
+
+#award {
+    position: absolute;
+    top: 30px;
+    left: 365px;
+}
+
 #tableContainer {
     display: table;
     border-spacing: 10px;
