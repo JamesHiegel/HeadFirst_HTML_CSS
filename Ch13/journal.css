@@ -36,6 +36,13 @@ td, th {
     padding: 5px;
 }
 
+td.centered {
+    text-align: center;
+}
+td.right {
+    text-align: right;
+}
+
 caption {
     font-style: italic;
     padding-top: 8px;
