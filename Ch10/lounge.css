@@ -49,6 +49,8 @@ h2 {
     background-repeat: repeat-x;
 
     line-height: 1;
+
+    float: right;
 }
 #elixirs h2 {
     color: black;
