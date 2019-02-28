@@ -3,15 +3,12 @@ body {
   font-family:         Verdana, Helvetica, Arial, sans-serif;
   line-height:         1.6em;
 }
-
 h1, h2 {
   color:               #007e7e;
 }
-
 h1 {
   font-size:           150%;
 }
-
 h2 {
   font-size:           130%;
 }
@@ -53,11 +50,9 @@ h2 {
 
     line-height: 1;
 }
-
 #elixirs h2 {
     color: black;
 }
-
 #elixirs h3 {
     color: #d12c47;
 }
@@ -72,7 +67,16 @@ h2 {
 .cd {
     font-style: italic;
 }
-
 .artist {
     font-weight: bold;
+}
+
+a:link {
+    color: green;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: yellow;
 }
